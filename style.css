@@ -1,0 +1,60 @@
+body{
+    margin-top:0;
+    text-align:center;
+    padding-top:50px;
+}
+#bio{
+    background-color:#d5e1d6 ;
+}
+img{
+    width:300px;
+    height:300px;
+    border-radius:20%; 
+}
+#about{
+    background-color:#C7E1CB;
+}
+#Benefits{
+    background-color:#d5e1d6;
+}
+.menu{
+    position: fixed;
+    width: 100%;
+    font-family: cursive;
+    margin-top: 0px;
+    top: 0px;
+    background-color: burlywood
+    z-index: 10px;}
+    
+.link{
+    color:black;
+    padding-left: 33px;
+    padding-right: 33px;
+    font-size: 18px;
+    font-family: sans-serif;
+    display: inline;
+}
+#website{
+    background-color:#C7E1CB;
+}
+#string{
+    background-color: #d5e1d6;
+}
+
+html{
+ scroll-behavior: smooth;
+}
+#pic{
+    transition: transfrom .2s;
+    border: 3px solid;
+}
+#pic:hover{
+    transform: scale(0.9)
+}
+#inspiration{
+    background-color: #d5e1d6;
+}
+#map{
+    background-color:#C7E1CB;
+}
+
